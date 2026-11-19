@@ -1,0 +1,33 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# 本机配置、业务数据和构建产物
+.env
+.env.local
+data/*.db*
+data/*.sqlite*
+data/*.log
+data/*.pid
+ui/node_modules/
+ui/dist/
+.pytest_cache/
+.coverage
+test-results/
+artifacts/
+models/
+ui/playwright-report/
+data/ui-test/
+data/*.tar
+ui/test-results/
+
+# Local scaffold files not used by this project
+1.py
+src/1109orderagent/

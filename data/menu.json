@@ -1,0 +1,7 @@
+[
+  {"id":1,"dish_name":"宫保鸡丁","price":28,"description":"经典川菜，鸡肉丁配花生米，酸甜微辣，口感丰富","category":"川菜","spice_level":2,"flavor":"酸甜微辣","main_ingredients":"鸡胸肉,花生米,青椒,红椒,葱段","cooking_method":"爆炒","is_vegetarian":false,"allergens":"花生,可能含有麸质","is_available":true,"is_featured":true},
+  {"id":2,"dish_name":"麻婆豆腐","price":18,"description":"四川传统名菜，嫩滑豆腐配麻辣汤汁，下饭神器","category":"川菜","spice_level":3,"flavor":"麻辣鲜香","main_ingredients":"嫩豆腐,牛肉末,豆瓣酱,花椒","cooking_method":"烧炒","is_vegetarian":false,"allergens":"大豆,可能含有麸质","is_available":true,"is_featured":false},
+  {"id":3,"dish_name":"清炒时蔬","price":15,"description":"新鲜时令蔬菜清炒，营养健康，口感清爽","category":"素食","spice_level":0,"flavor":"清淡爽口","main_ingredients":"时令蔬菜,蒜蓉","cooking_method":"清炒","is_vegetarian":true,"allergens":"","is_available":true,"is_featured":true},
+  {"id":4,"dish_name":"红烧鲈鱼","price":45,"description":"新鲜鲈鱼红烧制作，肉质鲜美，营养丰富","category":"鲁菜","spice_level":1,"flavor":"咸鲜微甜","main_ingredients":"鲈鱼,生抽,老抽,冰糖,葱姜","cooking_method":"红烧","is_vegetarian":false,"allergens":"鱼类","is_available":true,"is_featured":true},
+  {"id":5,"dish_name":"蒜蓉西兰花","price":12,"description":"新鲜西兰花配蒜蓉，营养丰富，适合减肥人群","category":"素食","spice_level":0,"flavor":"蒜香清淡","main_ingredients":"西兰花,大蒜,橄榄油","cooking_method":"蒸炒","is_vegetarian":true,"allergens":"无过敏源","is_available":true,"is_featured":false}
+]
